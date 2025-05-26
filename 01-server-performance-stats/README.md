@@ -27,7 +27,7 @@ The `server-stats.sh` script analyzes and displays:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/roadmap.sh--DevOps-Projects.git
+   git clone https://github.com/nimit0703/roadmap.sh--DevOps-Projects.git
    cd roadmap.sh--DevOps-Projects/01-server-performance-stats
    ```
 
@@ -93,8 +93,8 @@ You can easily extend this script by adding:
 
 ## 🌐 Project Repository
 
-**Main Repository:** https://github.com/yourusername/roadmap.sh--DevOps-Projects  
-**This Project:** https://github.com/yourusername/roadmap.sh--DevOps-Projects/tree/main/01-server-performance-stats
+**Main Repository:** https://github.com/nimit0703/roadmap.sh--DevOps-Projects  
+**This Project:** https://github.com/nimit0703/roadmap.sh--DevOps-Projects/tree/main/01-server-performance-stats
 
 ## 🤝 Contributing
 
@@ -141,10 +141,10 @@ Created as a solution for server performance monitoring. Feel free to use, modif
 
 **⭐ If this project helped you, please give it a star on GitHub!**
 
-**🔗 Project URL:** https://github.com/yourusername/roadmap.sh--DevOps-Projects/tree/main/01-server-performance-stats
+**🔗 Project URL:** https://github.com/nimit0703/roadmap.sh--DevOps-Projects/tree/main/01-server-performance-stats
 
 ---
 
 ## 🔙 Back to Main Repository
 
-👈 **[View All DevOps Projects](https://github.com/yourusername/roadmap.sh--DevOps-Projects)** - Explore more hands-on DevOps learning projects!
+👈 **[View All DevOps Projects](https://github.com/nimit0703/roadmap.sh--DevOps-Projects)** - Explore more hands-on DevOps learning projects!
