@@ -35,9 +35,9 @@ roadmap.sh--DevOps-Projects/
 
 ### 🖥️ System Administration & Monitoring
 
-| Project | Description | Difficulty | Technologies |
-|---------|------------|------------|--------------|
-| [**Server Performance Stats**](./01-server-performance-stats/) | Monitor CPU, memory, disk usage and top processes | ⭐ Beginner | Bash, Linux Commands |
+| Project | Description | Difficulty | Technologies | projecturl |
+|---------|------------|------------|--------------|-------------|
+| [**Server Performance Stats**](./01-server-performance-stats/) | Monitor CPU, memory, disk usage and top processes | ⭐ Beginner | Bash, Linux Commands | [view](https://roadmap.sh/projects/server-stats)
 | [**Log Archive Tool**](./02-log-archive-tool/) | Automated log rotation and compression | ⭐⭐ Intermediate | Bash, Cron, Compression |
 | [**System Health Monitor**](./03-system-health-monitor/) | Real-time system monitoring with alerts | ⭐⭐ Intermediate | Bash, Email, Thresholds |
 
