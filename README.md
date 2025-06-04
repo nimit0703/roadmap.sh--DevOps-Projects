@@ -24,9 +24,9 @@ roadmap.sh--DevOps-Projects/
 │   ├── README.md
 │   ├── log-archiver.sh
 │   └── config/
-├── 03-backup-solution/
+├── 03-nginx-log-analyser/
 │   ├── README.md
-│   ├── backup-script.sh
+│   ├── nginx-log.sh
 │   └── docs/
 └── ...
 ```
@@ -40,6 +40,7 @@ roadmap.sh--DevOps-Projects/
 | [**Server Performance Stats**](./01-server-performance-stats/) | Monitor CPU, memory, disk usage and top processes | ⭐ Beginner | Bash, Linux Commands | [view](https://roadmap.sh/projects/server-stats)
 | [**Log Archive Tool**](./02-log-archive-tool/) | Automated log rotation and compression | ⭐⭐ Beginner | Bash, Cron, Compression | [view](https://roadmap.sh/projects/log-archive-tool)
 | [**Nginx Log Analyser**](./03-nginx-log-analyser/) | Basic shell scripting skills,Analyze logs | ⭐ Beginner | Bash, awk, sort | [view](https://roadmap.sh/projects/nginx-log-analyser)
+| [**GitHub Pages Deployment**](./04-github-pages-deployment/) | GitHub Actions, GitHub Pages, GitHub Actions workflows, CICD  | ⭐ Beginner | yml, html | [view](https://roadmap.sh/projects/github-actions-deployment-workflow)
 
 
 ## 🎯 Learning Path
