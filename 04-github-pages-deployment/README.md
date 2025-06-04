@@ -59,10 +59,8 @@ Before using this workflow, ensure the following:
 After successful deployment, your static website will be accessible at:
 
 ```
-https://<your-github-username>.github.io/roadmap.sh--DevOps-Projects/
+https://github.com/nimit0703/roadmap.sh--DevOps-Projects/
 ```
-
-Replace `<your-github-username>` with your actual GitHub handle.
 
 ---
 
